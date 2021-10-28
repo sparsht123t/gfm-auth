@@ -1,0 +1,11 @@
+The user should select the products from the application home page or any particular food redirected page & add the desired products to their cart and choose quantity.
+
+After adding products to the cart, they should be proceeded to checkout to complete the ordering process.
+
+They should be required to provide their details like name, email, mobile number & address at the checkout page. After giving the details, the user should select the payment method to complete the order’s payment.
+
+Once the payment method is selected, the user should be taken to the order completion page. This should display his/her Order ID & Transaction ID for the payment along with the order details.
+
+The user should also be notified about the order details & payment receipts via email, SMS & other mediums.
+
+After getting the confirmation notification, the user will get the contact and address details of the restaurant he/she ordered the food item from. The user then can go to the directed restaurant to collect their food item as takeaway.
